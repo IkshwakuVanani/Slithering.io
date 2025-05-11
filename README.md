@@ -63,3 +63,15 @@ This is a real-time multiplayer snake game inspired by **Slither.io**, designed 
 
 Enjoy playing the game with your friends on your local network! Feel free to modify or extend the project – for example, adding sound effects, mobile touch controls, or more power-ups and game modes.
 # Slithering.io
+
+## Credits
+
+Developed by Ikshwaku Vanani
+
+Inspired by slither.io and other real-time .io games
+
+Built using raw WebSockets, HTML5 Canvas, and Node.js
+
+## License
+
+MIT License — feel free to use, remix, and deploy!
